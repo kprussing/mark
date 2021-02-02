@@ -1,0 +1,7 @@
+mark.svg    -diff -merge
+mark.svg    linguist-generated=true
+mark.png    -diff -merge
+mark.png    linguist-generated=true
+mark.pdf    -diff -merge
+mark.pdf    linguist-generated=true
+
