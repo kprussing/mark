@@ -1,0 +1,21 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="100.442pt" height="140.01pt" viewBox="0 0 100.442 140.01" version="1.2">
+<ns0:defs>
+<ns0:clipPath id="clip1">
+  <ns0:path d="M 0.0742188 0 L 99.8125 0 L 99.8125 139.027344 L 0.0742188 139.027344 Z M 0.0742188 0 " />
+</ns0:clipPath>
+</ns0:defs>
+<ns0:g id="surface1">
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 28.344902 56.692781 L 0.00136313 28.345308 L -28.34611 56.692781 L -28.34611 -56.693177 L 0.00136313 -28.345704 L 28.344902 -56.693177 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -28.34611 -56.693177 L -28.34611 56.692781 L 0.00136313 28.345308 L -28.34611 0.0017692 L 28.344902 -56.693177 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -28.34611 -56.693177 L -28.34611 56.692781 L 28.344902 0.0017692 L 28.344902 -56.693177 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -28.34611 56.692781 L 0.00136313 28.345308 L -28.34611 0.0017692 L 0.00136313 -28.345704 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.00136313 28.345308 L 28.344902 0.0017692 L 0.00136313 -28.345704 L 28.344902 -56.693177 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.00136313 28.345308 L -28.34611 0.0017692 L 0.00136313 -28.345704 L 28.344902 0.0017692 L 0.00136313 28.345308 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.00136313 14.171572 L -14.172373 0.0017692 L 0.00136313 -14.171967 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.00136313 28.345308 L 0.00136313 -28.345704 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:path style="fill:none;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.00136313 28.345308 L 0.00136313 -28.345704 M 0.00136313 14.171572 L 14.1751 0.0017692 L 0.00136313 -14.171967 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+<ns0:g clip-path="url(#clip1)" clip-rule="nonzero">
+<ns0:path style="fill:none;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,9.999084%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 49.426516 0.0017692 C 49.426516 38.223258 27.298493 69.210358 0.00136313 69.210358 C -27.295766 69.210358 -49.42379 38.223258 -49.42379 0.0017692 C -49.42379 -38.223653 -27.295766 -69.20682 0.00136313 -69.20682 C 27.298493 -69.20682 49.426516 -38.223653 49.426516 0.0017692 Z M 49.426516 0.0017692 " transform="matrix(0.992979,0,0,-0.992979,49.943959,69.513476)" />
+</ns0:g>
+</ns0:g>
+<meta name="title" content="The Mark of Keith" /><meta name="author" content="Keith F Prussing" /><meta name="date" content="2021-02-02T00:07:35-05:00" /><meta name="rights" content="Copyright © 2021, Keith F Prussing" /><meta name="licenseurl" content="http://creativecommons.org/licenses/by-sa/4.0/" /><meta name="producer" content="LuaHBTeX, Version 1.12.0 (TeX Live 2020)" /></ns0:svg>
