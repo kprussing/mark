@@ -1,0 +1,56 @@
+\documentclass[tikz]{standalone}
+
+\author{Keith F Prussing}
+\title{The Mark of Keith}
+
+\usepackage{hyperxmp}
+\makeatletter
+\usepackage[pdfusetitle,
+            pdfcopyright={Copyright © 2021, \@author},
+            pdflicenseurl={http://creativecommons.org/licenses/by-sa/4.0/},
+            ]{hyperref}
+\makeatother
+
+\usetikzlibrary{calc}
+
+\begin{document}
+\begin{tikzpicture}[draw=green!10!black]
+    \begin{scope}[ultra thick, x=1cm, y=1cm, line join=bevel]
+        \draw % P ᛈ
+            (1, 2) coordinate (p1) --
+            ++(-1, -1) -- ++(-1, 1) -- ++(0, -4) -- ++(1, 1) -- ++(1, -1);
+        \draw % r ᚱ
+            (-1, -2) -- ++(0, 4) -- ++(1, -1) -- ++(-1, -1) -- ++(2, -2);
+        \draw % u ᚢ
+            (-1, -2) -- ++(0, 4) -- ++(2, -2) -- ++(0, -2);
+        \draw % s ᛊ
+            (-1, 2) -- ++(1, -1) -- ++(-1, -1) -- ++(1, -1);
+        \draw % s ᛊ
+            (0, 1) -- ++(1, -1) -- ++(-1, -1) -- ++(1, -1);
+        \draw % ing ᛜ
+            (0, 1) -- ++(-1, -1) -- ++(1, -1) -- ++(1, 1) -- ++(-1, 1);
+    \end{scope}
+
+    \begin{scope}[thick, x=0.5cm, y=0.5cm]
+    \draw % K ᚲ
+        (0, 1) -- (-1, 0) -- (0, -1);
+    \draw % i ᛁ
+        (0, 2) -- (0, -2);
+    \draw % th þ
+        (0, 2) -- (0, -2) (0, 1) -- (1, 0) -- (0, -1);
+    \end{scope}
+
+    % For a point on an ellipse, we have $x = a \cos\theta$ and $y = b
+    % \cos\theta$.  That means I just need to pick an angle at which the
+    % ellipse looks good.  Note, 45 is equivalent to using the fit
+    % library which is a bit too narrow for my taste (today).
+    \def\ang{55}
+    \draw [ultra thick]
+        let
+            \p1 = (p1),
+            \n1 = {\x1 / cos(\ang)},
+            \n2 = {\y1 / sin(\ang)}
+        in
+            circle [x radius=\n1, y radius=\n2];
+\end{tikzpicture}
+\end{document}
