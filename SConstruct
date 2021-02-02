@@ -52,7 +52,7 @@ def pdf2png(target, source, env):
     )
 
 
-pdf = PDF("mark.tex", PDFLATEX="lualatex")
-svg = Command("mark.svg", pdf, action=pdf2svg)
-png = Command("mark.png", pdf, action=pdf2png)
-NoClean(svg, png, pdf)
+pdf = PDF("mark.tex", PDFLATEX="lualatex")  # noqa: F821
+svg = Command("mark.svg", pdf, action=pdf2svg)  # noqa: F821
+png = Command("mark.png", pdf, action=pdf2png)  # noqa: F821
+NoClean(svg, png, pdf)  # noqa: F821
